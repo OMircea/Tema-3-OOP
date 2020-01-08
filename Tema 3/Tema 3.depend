@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578504537 source:c:\users\mircea\desktop\teme oop\tema 3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<typeinfo>
+
